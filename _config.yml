@@ -68,7 +68,7 @@ kramdown:
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "步履不停。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/fox.jpeg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
