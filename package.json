@@ -1,9 +1,9 @@
 {
-    "name": "hyxblog",
-    "title": "Hyx Blog",
+    "name": "步履不前",
+    "title": "machine411 Robort’ blog",
     "version": "1.0.0",
     "homepage": "https://machine411.github.io/",
-    "author": "Hux",
+    "author": "machine411r",
     "devDependencies": {
         "grunt": "~0.4.5",
         "grunt-contrib-less": "~0.11.4",
