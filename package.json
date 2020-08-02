@@ -2,7 +2,7 @@
     "name": "hyxblog",
     "title": "Hyx Blog",
     "version": "1.0.0",
-    "homepage": "https://machine411.github.io",
+    "homepage": "https://machine411.github.io/",
     "author": "Hux",
     "devDependencies": {
         "grunt": "~0.4.5",
