@@ -7,16 +7,11 @@
     <meta name="description" content="{{ site.description }}">
     <meta name="keyword"  content="{{ site.keyword }}">
     <link rel="shortcut icon" href="{{ site.baseurl }}/img/caticon.png">
-    <script src="./audiojs/audio.min.js"></script>
-        <script>
-      audiojs.events.ready(function() {
-        audiojs.createAll();
-      });
-    </script>
+
     <title>{% if page.title %}{{ page.title }} - {{ site.SEOTitle }}{% else %}{{ site.SEOTitle }}{% endif %}</title>
 
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
-   <audio src="http://kolber.github.io/audiojs/demos/mp3/juicy.mp3" preload="auto"></audio>
+   
     <!-- Bootstrap Core CSS -->
     <link rel="stylesheet" href="{{ "/css/bootstrap.min.css" | prepend: site.baseurl }}">
 
