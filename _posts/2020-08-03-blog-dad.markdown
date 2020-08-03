@@ -4,7 +4,7 @@ title:      "爸爸要快点好起来"
 subtitle:   "会的"
 date:       2020-08-02
 author:     "machine411"
-header-img: "img/yusheng.jpg"
+header-img: "img/DPlayer.png"
 tags:
     - 日记
 ---
