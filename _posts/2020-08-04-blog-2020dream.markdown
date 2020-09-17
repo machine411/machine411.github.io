@@ -6,7 +6,7 @@ date:       2020-08-03
 author:     "machine411"
 header-img: "img/xiaoxin.jpeg"
 tags:
-    - 日记
+    - 杂记
 ---
 
 # 有一万条河流~奔涌成海~
